@@ -1,0 +1,1 @@
+Este es un programa que describe la utilizacion de sortings para ordenar un conjunto (o no) de datos numericos cuyo fin es determinar el tiempo de menor ejecucion y ordenamiento
